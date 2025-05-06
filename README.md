@@ -44,7 +44,7 @@
 
 
 ## Pour visualiser le rendu du projet, vous pouvez cliquer sur le lien ci-dessous :
-#### ✨ [Lien GIT Page](https://dev-it-seb.github.io/Les-4-elements/)
+#### ✨ [Lien GIT Page](https://schatel-dev.github.io/Les-4-elements/)
 
 ## Téléchargement de GIT
 #### Pour pouvoir consulter ce projet, vous devrez tout d'abord télécharger GIT depuis le site officiel en cliquant sur le lien ci-dessous :
@@ -54,10 +54,9 @@
 #### Après d'avoir installé GIT, ouvrez votre éditeur de code et saisissez la commande ci-dessous :
 
 ```sh
-git clone https://github.com/Dev-IT-Seb/Les-4-elements.git
+git clone https://github.com/schatel-dev/Les-4-elements.git
 ```
 ## Auteur
 
 👤 **Sebastien C.**
-* Lien Github: [@Dev-IT-Seb](https://github.com/Dev-IT-Seb)
 * Promo 2025 (Webecom)
