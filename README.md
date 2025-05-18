@@ -65,7 +65,7 @@
 
 ## 🚀 Démo en ligne | Live Demo
 
-🔗 [Voir la démo sur GitHub Pages](https://schatel-dev.github.io/Les-4-elements/)
+🔗 [Voir la démo sur GitHub Pages](https://devtech-solution.github.io/Les-4-elements/)
 
 ---
 
@@ -78,7 +78,7 @@
 ### 2. 🇫🇷 Cloner le projet | 🇬🇧 Clone the repo
 
 ```bash
-git clone https://github.com/schatel-dev/Les-4-elements.git
+git clone https://github.com/DevTech-Solution/Les-4-elements.git
 ```
 
 ---
@@ -87,7 +87,7 @@ git clone https://github.com/schatel-dev/Les-4-elements.git
 
 **Sebastien C.**  
 🎓 Promo 2025 (Webecom)  
-🔗 GitHub : [@schatel-dev](https://github.com/schatel-dev)
+🔗 GitHub : [@DevTech-Solutions](https://github.com/DevTech-Solution)
 
 ---
 
